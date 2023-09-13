@@ -1,0 +1,14 @@
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\bin\Debug\net7.0\Ufinet.Dtos.deps.json
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\bin\Debug\net7.0\Ufinet.Dtos.runtimeconfig.json
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\bin\Debug\net7.0\Ufinet.Dtos.dll
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\bin\Debug\net7.0\Ufinet.Dtos.pdb
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\Ufinet.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\Ufinet.Dtos.AssemblyInfoInputs.cache
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\Ufinet.Dtos.AssemblyInfo.cs
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\Ufinet.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\Ufinet.Dtos.dll
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\refint\Ufinet.Dtos.dll
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\Ufinet.Dtos.pdb
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\Ufinet.Dtos.genruntimeconfig.cache
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\ref\Ufinet.Dtos.dll
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Dtos\obj\Debug\net7.0\Ufinet.Dtos.csproj.AssemblyReference.cache

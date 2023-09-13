@@ -1,0 +1,15 @@
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\bin\Debug\net7.0\Ufinet.Contracts.deps.json
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\bin\Debug\net7.0\Ufinet.Contracts.dll
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\bin\Debug\net7.0\Ufinet.Contracts.pdb
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\bin\Debug\net7.0\Ufinet.Dtos.dll
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\bin\Debug\net7.0\Ufinet.Dtos.pdb
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\Ufinet.Contracts.csproj.AssemblyReference.cache
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\Ufinet.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\Ufinet.Contracts.AssemblyInfoInputs.cache
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\Ufinet.Contracts.AssemblyInfo.cs
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\Ufinet.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\Ufinet.Contracts.csproj.CopyComplete
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\Ufinet.Contracts.dll
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\refint\Ufinet.Contracts.dll
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\Ufinet.Contracts.pdb
+C:\Users\Juan.Acevedo\Desktop\PruebaTecnica\Ufinet.Api\Ufinet.Contracts\obj\Debug\net7.0\ref\Ufinet.Contracts.dll

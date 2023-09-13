@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CARMrVrxqjFdxaEIZ8vBfZ4fv23lDBrUQ47rJZjWgno=",
+  "Source": "Ufinet.Api",
+  "BasePath": "_content/Ufinet.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
